@@ -6,4 +6,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 
 * Week 1
  * Introduction to Jupyter notebooks, Markdown and LaTeX -- [January 6, 2016](notes-week-01/notes-2017-01-06.ipynb)
- * More LaTeX -- [January 8, 2016](notes-week-01/notes-2017-01-08.ipynb)
+ * More LaTeX -- [January 9, 2016](notes-week-01/notes-2017-01-09.ipynb)
