@@ -12,3 +12,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 * Week 2
  * More Python dataypes, logic and if statements -- [January 16, 2017](notes-week-01/notes-2017-01-16.ipynb)
  * Functions -- [January 18, 2017](notes-week-01/notes-2017-01-18.ipynb)
+ * Functions and for loops -- [January 20, 2017](notes-week-01/notes-2017-01-20.ipynb)
