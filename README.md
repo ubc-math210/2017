@@ -10,6 +10,8 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * Basic Python: datatypes `int` and `float` -- [January 11, 2017](notes-week-01/notes-2017-01-11.ipynb)
  * Basic Python: integers, floats, lists, tuples; list comprehensions; builtin functions -- [January 13, 2017](notes-week-01/notes-2017-01-13.ipynb)
 * Week 2
- * More Python dataypes, logic and if statements -- [January 16, 2017](notes-week-01/notes-2017-01-16.ipynb)
- * Functions -- [January 18, 2017](notes-week-01/notes-2017-01-18.ipynb)
- * Functions and for loops -- [January 20, 2017](notes-week-01/notes-2017-01-20.ipynb)
+ * More Python dataypes, logic and if statements -- [January 16, 2017](notes-week-02/notes-2017-01-16.ipynb)
+ * Functions -- [January 18, 2017](notes-week-02/notes-2017-01-18.ipynb)
+ * Functions and for loops -- [January 20, 2017](notes-week-02/notes-2017-01-20.ipynb)
+* Week 3
+ * For loops and while loops -- [January 23, 2017](notes-week-03/notes-2017-01-23.ipynb)
