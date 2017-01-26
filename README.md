@@ -15,3 +15,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * Functions and for loops -- [January 20, 2017](notes-week-02/notes-2017-01-20.ipynb)
 * Week 3
  * For loops and while loops -- [January 23, 2017](notes-week-03/notes-2017-01-23.ipynb)
+ * More example using for loops -- [January 25, 2017](notes-week-03/notes-2017-01-25.ipynb)
