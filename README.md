@@ -16,3 +16,6 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 * Week 3
  * For loops and while loops -- [January 23, 2017](notes-week-03/notes-2017-01-23.ipynb)
  * More example using for loops -- [January 25, 2017](notes-week-03/notes-2017-01-25.ipynb)
+ * Python modules and packages; Scientific computing packages in Python -- [January 27, 2017](notes-week-03/notes-2017-01-27.ipynb)
+* Week 4
+ * Introduction to NumPy and matplotlib -- [January 30, 2017](notes-week-04/notes-2017-01-30.ipynb)
