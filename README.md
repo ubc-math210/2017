@@ -19,3 +19,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * Python modules and packages; Scientific computing packages in Python -- [January 27, 2017](notes-week-03/notes-2017-01-27.ipynb)
 * Week 4
  * Introduction to NumPy and matplotlib -- [January 30, 2017](notes-week-04/notes-2017-01-30.ipynb)
+ * NumPy arrays, mathematical functions and plotting with matplotlib -- [February 1, 2017](notes-week-04/notes-2017-02-01.ipynb)
