@@ -20,3 +20,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 * Week 4
  * Introduction to NumPy and matplotlib -- [January 30, 2017](notes-week-04/notes-2017-01-30.ipynb)
  * NumPy arrays, mathematical functions and plotting with matplotlib -- [February 1, 2017](notes-week-04/notes-2017-02-01.ipynb)
+ * More plotting examples; NumPy arrays: methods, attributes, indexing and slicing -- [February 3, 2017](notes-week-04/notes-2017-02-03.ipynb)
