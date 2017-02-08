@@ -21,3 +21,5 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * Introduction to NumPy and matplotlib -- [January 30, 2017](notes-week-04/notes-2017-01-30.ipynb)
  * NumPy arrays, mathematical functions and plotting with matplotlib -- [February 1, 2017](notes-week-04/notes-2017-02-01.ipynb)
  * More plotting examples; NumPy arrays: methods, attributes, indexing and slicing -- [February 3, 2017](notes-week-04/notes-2017-02-03.ipynb)
+* Week 5
+ * `pyplot` commands, subplots, and scatter and bar plots -- [February 6, 2017](notes-week-05/notes-2017-02-06.ipynb)
