@@ -24,3 +24,8 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 * Week 5
  * `pyplot` commands, subplots, and scatter and bar plots -- [February 6, 2017](notes-week-05/notes-2017-02-06.ipynb)
  * Plotting in 3D with mplot3d -- [February 8, 2017](notes-week-05/notes-2017-02-08.ipynb)
+ * More 3D plotting; miscellaneous topics: functions with keyword arguments, default values, and more list comprehensions -- [February 10, 2017](notes-week-05/notes-2017-02-10.ipynb)
+* Week 6
+  * Review: number theory, sequences, series, solving equations -- [February 15, 2017](notes-week-06/notes-2017-02-15.ipynb)
+* Week 7
+  * *Reading week*
