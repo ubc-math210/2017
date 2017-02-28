@@ -27,5 +27,6 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * More 3D plotting; miscellaneous topics: functions with keyword arguments, default values, and more list comprehensions -- [February 10, 2017](notes-week-05/notes-2017-02-10.ipynb)
 * Week 6
   * Review: number theory, sequences, series, solving equations -- [February 15, 2017](notes-week-06/notes-2017-02-15.ipynb)
+* *Reading week*
 * Week 7
-  * *Reading week*
+ * Definite integrals, Riemann sums and the trapezoid rule -- [February 27, 2017](notes-week-07/notes-2017-02-27.ipynb)
