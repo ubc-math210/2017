@@ -32,3 +32,5 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * Definite integrals, Riemann sums and the trapezoid rule -- [February 27, 2017](notes-week-07/notes-2017-02-27.ipynb)
  * Trapezoid rule, Simpson's rule and QUADPACK -- [March 1, 2017](notes-week-07/notes-2017-03-01.ipynb)
  * More definite integrals; Numerical differentiation -- [March 3, 2017](notes-week-07/notes-2017-03-03.ipynb)
+* Week 8
+ * More numerical differentiation; Linear algebra with SciPy, matrix multiplication and solving linear equations -- [March 6, 2017](notes-week-08/notes-2017-03-06.ipynb)
