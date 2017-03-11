@@ -34,3 +34,5 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * More definite integrals; Numerical differentiation -- [March 3, 2017](notes-week-07/notes-2017-03-03.ipynb)
 * Week 8
  * More numerical differentiation; Linear algebra with SciPy, matrix multiplication and solving linear equations -- [March 6, 2017](notes-week-08/notes-2017-03-06.ipynb)
+  * More linear algebra: determinant, transpose, trace, eigenvectors and eigenvalues -- [March 8, 2017](notes-week-08/notes-2017-03-08.ipynb)
+   * More linear algebra: matrix powers and projections -- [March 10, 2017](notes-week-08/notes-2017-03-10.ipynb)
