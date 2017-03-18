@@ -35,4 +35,7 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 * Week 8
  * More numerical differentiation; Linear algebra with SciPy, matrix multiplication and solving linear equations -- [March 6, 2017](notes-week-08/notes-2017-03-06.ipynb)
   * More linear algebra: determinant, transpose, trace, eigenvectors and eigenvalues -- [March 8, 2017](notes-week-08/notes-2017-03-08.ipynb)
-   * More linear algebra: matrix powers and projections -- [March 10, 2017](notes-week-08/notes-2017-03-10.ipynb)
+  * More linear algebra: matrix powers and projections -- [March 10, 2017](notes-week-08/notes-2017-03-10.ipynb)
+* Week 9
+  * Applications: Least squares linear regression -- [March 13, 2017](notes-week-09/notes-2017-03-13.ipynb)
+  * More about NumPy arrays; LU factorization -- [March 15, 2017](notes-week-09/notes-2017-03-15.ipynb)
