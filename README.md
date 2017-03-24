@@ -40,3 +40,6 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
   * Applications: Least squares linear regression -- [March 13, 2017](notes-week-09/notes-2017-03-13.ipynb)
   * More about NumPy arrays; LU factorization -- [March 15, 2017](notes-week-09/notes-2017-03-15.ipynb)
   * Numerical solutions of first order ODEs in SciPy -- [March 17, 2017](notes-week-09/notes-2017-03-17.ipynb)
+* Week 10
+  * Solving first and second order ODEs with SciPy -- [March 20, 2017](notes-week-10/notes-2017-03-20.ipynb)
+  * More solving linear/nonlinear systems of ODEs with SciPy -- [March 22, 2017](notes-week-10/notes-2017-03-22.ipynb)
