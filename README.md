@@ -43,3 +43,6 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 * Week 10
   * Solving first and second order ODEs with SciPy -- [March 20, 2017](notes-week-10/notes-2017-03-20.ipynb)
   * More solving linear/nonlinear systems of ODEs with SciPy -- [March 22, 2017](notes-week-10/notes-2017-03-22.ipynb)
+  * Planetary orbits -- [March 24, 2017](notes-week-10/notes-2017-03-24.ipynb)
+* Week 11
+  * Introduction to pandas; Canada population data -- [March 27, 2017](notes-week-11/notes-2017-03-27.ipynb)
