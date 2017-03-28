@@ -26,7 +26,7 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * Plotting in 3D with mplot3d -- [February 8, 2017](notes-week-05/notes-2017-02-08.ipynb)
  * More 3D plotting; miscellaneous topics: functions with keyword arguments, default values, and more list comprehensions -- [February 10, 2017](notes-week-05/notes-2017-02-10.ipynb)
 * Week 6
-  * Review: number theory, sequences, series, solving equations -- [February 15, 2017](notes-week-06/notes-2017-02-15.ipynb)
+ * Review: number theory, sequences, series, solving equations -- [February 15, 2017](notes-week-06/notes-2017-02-15.ipynb)
 * *Reading week*
 * Week 7
  * Definite integrals, Riemann sums and the trapezoid rule -- [February 27, 2017](notes-week-07/notes-2017-02-27.ipynb)
@@ -34,15 +34,15 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
  * More definite integrals; Numerical differentiation -- [March 3, 2017](notes-week-07/notes-2017-03-03.ipynb)
 * Week 8
  * More numerical differentiation; Linear algebra with SciPy, matrix multiplication and solving linear equations -- [March 6, 2017](notes-week-08/notes-2017-03-06.ipynb)
-  * More linear algebra: determinant, transpose, trace, eigenvectors and eigenvalues -- [March 8, 2017](notes-week-08/notes-2017-03-08.ipynb)
-  * More linear algebra: matrix powers and projections -- [March 10, 2017](notes-week-08/notes-2017-03-10.ipynb)
+ * More linear algebra: determinant, transpose, trace, eigenvectors and eigenvalues -- [March 8, 2017](notes-week-08/notes-2017-03-08.ipynb)
+ * More linear algebra: matrix powers and projections -- [March 10, 2017](notes-week-08/notes-2017-03-10.ipynb)
 * Week 9
-  * Applications: Least squares linear regression -- [March 13, 2017](notes-week-09/notes-2017-03-13.ipynb)
-  * More about NumPy arrays; LU factorization -- [March 15, 2017](notes-week-09/notes-2017-03-15.ipynb)
-  * Numerical solutions of first order ODEs in SciPy -- [March 17, 2017](notes-week-09/notes-2017-03-17.ipynb)
+ * Applications: Least squares linear regression -- [March 13, 2017](notes-week-09/notes-2017-03-13.ipynb)
+ * More about NumPy arrays; LU factorization -- [March 15, 2017](notes-week-09/notes-2017-03-15.ipynb)
+ * Numerical solutions of first order ODEs in SciPy -- [March 17, 2017](notes-week-09/notes-2017-03-17.ipynb)
 * Week 10
-  * Solving first and second order ODEs with SciPy -- [March 20, 2017](notes-week-10/notes-2017-03-20.ipynb)
-  * More solving linear/nonlinear systems of ODEs with SciPy -- [March 22, 2017](notes-week-10/notes-2017-03-22.ipynb)
-  * Planetary orbits -- [March 24, 2017](notes-week-10/notes-2017-03-24.ipynb)
+ * Solving first and second order ODEs with SciPy -- [March 20, 2017](notes-week-10/notes-2017-03-20.ipynb)
+ * More solving linear/nonlinear systems of ODEs with SciPy -- [March 22, 2017](notes-week-10/notes-2017-03-22.ipynb)
+ * Planetary orbits -- [March 24, 2017](notes-week-10/notes-2017-03-24.ipynb)
 * Week 11
-  * Introduction to pandas; Canada population data -- [March 27, 2017](notes-week-11/notes-2017-03-27.ipynb)
+ * Introduction to pandas; Canada population data -- [March 27, 2017](notes-week-11/notes-2017-03-27.ipynb)
