@@ -46,3 +46,5 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
   * Planetary orbits -- [March 24, 2017](notes-week-10/notes-2017-03-24.ipynb)
 * Week 11
   * Introduction to pandas; Canada population data -- [March 27, 2017](notes-week-11/notes-2017-03-27.ipynb)
+  * Exploring the World Bank Databank -- [March 29, 2017](notes-week-11/notes-2017-03-29.ipynb)
+  * Wind speed and temperature at the Vancouver airport; Vancouver crime data -- [March 31, 2017](notes-week-11/notes-2017-03-31.ipynb)
