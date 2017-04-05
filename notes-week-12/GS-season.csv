@@ -1,0 +1,83 @@
+G,Date,Opponent,W/L,Tm,Opp,W,L
+1,Tue Oct 27 2015,New Orleans Pelicans,W,111,95,1,0
+2,Fri Oct 30 2015,Houston Rockets,W,112,92,2,0
+3,Sat Oct 31 2015,New Orleans Pelicans,W,134,120,3,0
+4,Mon Nov 2 2015,Memphis Grizzlies,W,119,69,4,0
+5,Wed Nov 4 2015,Los Angeles Clippers,W,112,108,5,0
+6,Fri Nov 6 2015,Denver Nuggets,W,119,104,6,0
+7,Sat Nov 7 2015,Sacramento Kings,W,103,94,7,0
+8,Mon Nov 9 2015,Detroit Pistons,W,109,95,8,0
+9,Wed Nov 11 2015,Memphis Grizzlies,W,100,84,9,0
+10,Thu Nov 12 2015,Minnesota Timberwolves,W,129,116,10,0
+11,Sat Nov 14 2015,Brooklyn Nets,W,107,99,11,0
+12,Tue Nov 17 2015,Toronto Raptors,W,115,110,12,0
+13,Thu Nov 19 2015,Los Angeles Clippers,W,124,117,13,0
+14,Fri Nov 20 2015,Chicago Bulls,W,106,94,14,0
+15,Sun Nov 22 2015,Denver Nuggets,W,118,105,15,0
+16,Tue Nov 24 2015,Los Angeles Lakers,W,111,77,16,0
+17,Fri Nov 27 2015,Phoenix Suns,W,135,116,17,0
+18,Sat Nov 28 2015,Sacramento Kings,W,120,101,18,0
+19,Mon Nov 30 2015,Utah Jazz,W,106,103,19,0
+20,Wed Dec 2 2015,Charlotte Hornets,W,116,99,20,0
+21,Sat Dec 5 2015,Toronto Raptors,W,112,109,21,0
+22,Sun Dec 6 2015,Brooklyn Nets,W,114,98,22,0
+23,Tue Dec 8 2015,Indiana Pacers,W,131,123,23,0
+24,Fri Dec 11 2015,Boston Celtics,W,124,119,24,0
+25,Sat Dec 12 2015,Milwaukee Bucks,L,95,108,24,1
+26,Wed Dec 16 2015,Phoenix Suns,W,128,103,25,1
+27,Fri Dec 18 2015,Milwaukee Bucks,W,121,112,26,1
+28,Wed Dec 23 2015,Utah Jazz,W,103,85,27,1
+29,Fri Dec 25 2015,Cleveland Cavaliers,W,89,83,28,1
+30,Mon Dec 28 2015,Sacramento Kings,W,122,103,29,1
+31,Wed Dec 30 2015,Dallas Mavericks,L,91,114,29,2
+32,Thu Dec 31 2015,Houston Rockets,W,114,110,30,2
+33,Sat Jan 2 2016,Denver Nuggets,W,111,108,31,2
+34,Mon Jan 4 2016,Charlotte Hornets,W,111,101,32,2
+35,Tue Jan 5 2016,Los Angeles Lakers,W,109,88,33,2
+36,Fri Jan 8 2016,Portland Trail Blazers,W,128,108,34,2
+37,Sat Jan 9 2016,Sacramento Kings,W,128,116,35,2
+38,Mon Jan 11 2016,Miami Heat,W,111,103,36,2
+39,Wed Jan 13 2016,Denver Nuggets,L,110,112,36,3
+40,Thu Jan 14 2016,Los Angeles Lakers,W,116,98,37,3
+41,Sat Jan 16 2016,Detroit Pistons,L,95,113,37,4
+42,Mon Jan 18 2016,Cleveland Cavaliers,W,132,98,38,4
+43,Wed Jan 20 2016,Chicago Bulls,W,125,94,39,4
+44,Fri Jan 22 2016,Indiana Pacers,W,122,110,40,4
+45,Mon Jan 25 2016,San Antonio Spurs,W,120,90,41,4
+46,Wed Jan 27 2016,Dallas Mavericks,W,127,107,42,4
+47,Sat Jan 30 2016,Philadelphia 76ers,W,108,105,43,4
+48,Sun Jan 31 2016,New York Knicks,W,116,95,44,4
+49,Wed Feb 3 2016,Washington Wizards,W,134,121,45,4
+50,Sat Feb 6 2016,Oklahoma City Thunder,W,116,108,46,4
+51,Tue Feb 9 2016,Houston Rockets,W,123,110,47,4
+52,Wed Feb 10 2016,Phoenix Suns,W,112,104,48,4
+53,Fri Feb 19 2016,Portland Trail Blazers,L,105,137,48,5
+54,Sat Feb 20 2016,Los Angeles Clippers,W,115,112,49,5
+55,Mon Feb 22 2016,Atlanta Hawks,W,102,92,50,5
+56,Wed Feb 24 2016,Miami Heat,W,118,112,51,5
+57,Thu Feb 25 2016,Orlando Magic,W,130,114,52,5
+58,Sat Feb 27 2016,Oklahoma City Thunder,W,121,118,53,5
+59,Tue Mar 1 2016,Atlanta Hawks,W,109,105,54,5
+60,Thu Mar 3 2016,Oklahoma City Thunder,W,121,106,55,5
+61,Sun Mar 6 2016,Los Angeles Lakers,L,95,112,55,6
+62,Mon Mar 7 2016,Orlando Magic,W,119,113,56,6
+63,Wed Mar 9 2016,Utah Jazz,W,115,94,57,6
+64,Fri Mar 11 2016,Portland Trail Blazers,W,128,112,58,6
+65,Sat Mar 12 2016,Phoenix Suns,W,123,116,59,6
+66,Mon Mar 14 2016,New Orleans Pelicans,W,125,107,60,6
+67,Wed Mar 16 2016,New York Knicks,W,121,85,61,6
+68,Fri Mar 18 2016,Dallas Mavericks,W,130,112,62,6
+69,Sat Mar 19 2016,San Antonio Spurs,L,79,87,62,7
+70,Mon Mar 21 2016,Minnesota Timberwolves,W,109,104,63,7
+71,Wed Mar 23 2016,Los Angeles Clippers,W,114,98,64,7
+72,Fri Mar 25 2016,Dallas Mavericks,W,128,120,65,7
+73,Sun Mar 27 2016,Philadelphia 76ers,W,117,105,66,7
+74,Tue Mar 29 2016,Washington Wizards,W,102,94,67,7
+75,Wed Mar 30 2016,Utah Jazz,W,103,96,68,7
+76,Fri Apr 1 2016,Boston Celtics,L,106,109,68,8
+77,Sun Apr 3 2016,Portland Trail Blazers,W,136,111,69,8
+78,Tue Apr 5 2016,Minnesota Timberwolves,L,117,124,69,9
+79,Thu Apr 7 2016,San Antonio Spurs,W,112,101,70,9
+80,Sat Apr 9 2016,Memphis Grizzlies,W,100,99,71,9
+81,Sun Apr 10 2016,San Antonio Spurs,W,92,86,72,9
+82,Wed Apr 13 2016,Memphis Grizzlies,W,125,104,73,9
