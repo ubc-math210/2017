@@ -50,3 +50,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
   * Wind speed and temperature at the Vancouver airport; Vancouver crime data -- [March 31, 2017](notes-week-11/notes-2017-03-31.ipynb)
 * Week 12
   * Building .csv files from text; NBA Stats via [basketball-reference.com](http://www.basketball-reference.com/) -- [April 3, 2017](notes-week-12/notes-2017-04-03.ipynb)
+  * Federal Electoral District Tax Statistics -- [April 5, 2017](notes-week-12/notes-2017-04-05.ipynb)
